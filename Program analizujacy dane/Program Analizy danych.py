@@ -1,11 +1,3 @@
-#!/usr/bin/python3
-
-#Projekt
-#Mateusz Jaworski s208997
-#Dane Systemu Analizy Ofiar Obronnych (DCAS) o liczbach przypadków śmiertelnych w USArmy. 
-#Pogrupować do swoich haszy, posumować dane. 
-#Pomalować histogramy. Wyciągnąć wnioski.
-
 import re
 print("poczatek")
 
